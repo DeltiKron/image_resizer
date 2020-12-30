@@ -26,5 +26,5 @@ setup(
     keywords='PIL, images, resizing',  # Optional
     packages=find_packages(),  # Required
     python_requires='>=3.5, <4',
-    install_requires=['PIL'],  # Optional
+    install_requires=['pillow'],  # Optional
 )
